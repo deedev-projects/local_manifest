@@ -1,5 +1,5 @@
 ### How to clone
 
 ```bash
-git clone -b main https://github.com/deedev-projects/local_manifest.git .repo/local_manifests/
+git clone -b lineage-20.0 https://github.com/deedev-projects/local_manifests.git .repo/local_manifests/
 ```
