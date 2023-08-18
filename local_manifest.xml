@@ -9,8 +9,8 @@
         <project path="kernel/xiaomi/spes" name="android_kernel_xiaomi_spes" remote="parikshit" revision="13.0" clone-depth="1" />
         
         <!-- Source -->
-        <remove-project name="hardware/google/pixel" />
-        <remove-project name="hardware/lineage/compat" />
+        <remove-project name="LineageOS/android_hardware_google_pixel" />
+        <remove-project name="LineageOS/android_hardware_lineage_compat" />
 
         <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="parikshit" revision="lineage-20.0" clone-depth="1" />
         <project path="hardware/lineage/compat" name="android_hardware_lineage_compat" remote="parikshit" revision="lineage-20.0" clone-depth="1" />
